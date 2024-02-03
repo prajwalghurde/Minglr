@@ -1,6 +1,26 @@
 body{
     background-color: rgb(250 251 253);
 }
+.account-img {
+    text-align: center; /* Center its children horizontally */
+}
+/*
+Respective changes in html 
+<div class="account-img">
+    <ul>
+       
+        <li style="padding-left: 10px;">
+            <div class="message-buttons-name">
+                <b>pace</b><br>
+                <small>@prajwal_pace</small>
+            </div>
+        </li>
+        <li></li>
+    </ul>
+</div>
+
+
+*/
 .account{
     width: 100%;
     /* display: flex; */
